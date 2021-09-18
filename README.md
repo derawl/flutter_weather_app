@@ -1,4 +1,4 @@
-# stub
+# Flutter weather App
 
 A Flutter weather app that makes use of routing and statement management.
 
